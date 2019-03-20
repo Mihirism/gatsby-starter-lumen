@@ -2,11 +2,9 @@
 title: "About me"
 template: "page"
 ---
+નમસ્તે,
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+મારુ નામ મિહિર છે.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+હું અત્યારે ભુજની એક પ્રથમિક શાળા માં વિજ્ઞાન શિક્ષણ અને પર્યાવરણ મિત્ર ક્લબની પ્રવૃતિઓ સાથે જોડાયેલો છું.
+મને માનવ વિકાસ , અધ્યયન , સંસ્કૃતિ, ટેક્નોલોજી જેવા વિષયો માં રસ છે. ખાસ કરીને સમગ્રલક્ષી વિકાસ કેવી રીતે થાય, તેના માટેની જીવન પદ્ધતિ કેવી હોય, માનવ પ્રકૃતિ સાથે પરસ્પરાવલંબન સાંધી કેવી રીતે રહી શકે, સમગ્રલક્ષી વિકાસ માટેનું અધ્યાપન કેવું હોય, આપણે તે માટેનું વાતાવરણ અને તકો કેવી રીતે ઉભી કરી શકીએ - આ બધા પ્રશ્નો માં ખુબ રસ પડે છે...
